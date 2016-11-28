@@ -10,7 +10,14 @@
 		"type": "git",
 		"url": "https://archive.eldergods.com/p-thunk"
 	},
-	"keywords": ["promise", "thunk"],
+	"keywords": [
+		"promise",
+		"thunk"
+	],
 	"author": "rektide de la faye",
-	"license": "MIT"
+	"license": "MIT",
+	"dependencies": {
+		"getter-maker": "^1.0.5",
+		"p-cancelable": "^0.1.0"
+	}
 }
