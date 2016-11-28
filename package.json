@@ -18,6 +18,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"getter-maker": "^1.0.5",
-		"p-cancelable": "^0.1.0"
+		"p-cancelable": "^0.1.0",
+		"p-lazy": "^1.0.0"
 	}
 }
