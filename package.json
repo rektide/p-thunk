@@ -1,0 +1,16 @@
+{
+	"name": "p-thunk",
+	"version": "1.0.0",
+	"description": "The excellent \"p-\" libraris of @sindresorhus in thunk form",
+	"main": "p-thunk.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.eldergods.com/p-thunk"
+	},
+	"keywords": ["promise", "thunk"],
+	"author": "rektide de la faye",
+	"license": "MIT"
+}
