@@ -12,6 +12,8 @@ getter({
 	"break": "./p-break",
 	"p-cancelable": "./p-cancelable",
 	"cancelable": "./p-cancelable",
+	"p-defer": "./p-defer",
+	"defer": "./p-defer",
 	"p-each-series": "./p-each-series",
 	"eachSeries": "./p-each-series",
 	"p-filter": "./p-filter",
