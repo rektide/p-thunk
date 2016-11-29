@@ -27,6 +27,7 @@
 		"p-defer": "^1.0.0",
 		"p-each-series": "^1.0.0",
 		"p-filter": "^1.0.0",
+		"p-finally": "^1.0.0",
 		"p-forever": "^1.0.0",
 		"p-if": "^1.1.0",
 		"p-immediate": "^2.1.0",

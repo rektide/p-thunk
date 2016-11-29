@@ -22,6 +22,8 @@ getter({
 	"eachSeries": "./p-each-series",
 	"p-filter": "./p-filter",
 	"filter": "./p-filter",
+	"p-finally": "./p-finally",
+	"finally": "./p-finally",
 	"p-forever": "./p-forever",
 	"forever": "./p-forever",
 	"p-if": "./p-if",
