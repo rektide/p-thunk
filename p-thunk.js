@@ -16,8 +16,10 @@ getter({
 	"map": "./p-map",
 	"p-retry": "./p-retry",
 	"retry": "./p-retry",
+	"p-reflect": "./p-reflect",
+	"reflect": "./p-reflect",
 	"p-settle": "./p-settle",
 	"settle": "./p-settle",
-	"p-reflect": "./p-reflect",
-	"reflect": "./p-reflect"
+	"p-timeout": "./p-timeout",
+	"timeout": "./p-timeout"
 }, module)
