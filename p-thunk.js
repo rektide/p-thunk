@@ -16,6 +16,8 @@ getter({
 	"isPromise": "./p-is-promise",
 	"p-lazy": "./p-lazy",
 	"lazy": "./p-lazy",
+	"p-limit": "./p-limit",
+	"limit": "./p-limit",
 	"p-locate": "./p-locate",
 	"locate": "./p-locate",
 	"p-map": "./p-map",
