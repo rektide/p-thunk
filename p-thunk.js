@@ -1,3 +1,5 @@
+"use strict"
+
 var
   getter= require("getter-maker/require")()
 
@@ -27,5 +29,7 @@ getter({
 	"p-settle": "./p-settle",
 	"settle": "./p-settle",
 	"p-timeout": "./p-timeout",
-	"timeout": "./p-timeout"
+	"timeout": "./p-timeout",
+	"p-waterfall": "./p-waterfall",
+	"waterfall": "./p-waterfall"
 }, module)
