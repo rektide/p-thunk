@@ -34,6 +34,8 @@ getter({
 	"limit": "./p-limit",
 	"p-locate": "./p-locate",
 	"locate": "./p-locate",
+	"p-log": "./p-log",
+	"log": "./p-log",
 	"p-map": "./p-map",
 	"map": "./p-map",
 	"p-min-delay": "./p-min-delay",
