@@ -32,6 +32,8 @@ getter({
 	"minDelay": "./p-min-delay",
 	"p-pipe": "./p-pipe",
 	"pipe": "./p-pipe",
+	"p-queue": "./p-queue",
+	"queue": "./p-queue",
 	"p-retry": "./p-retry",
 	"retry": "./p-retry",
 	"p-reflect": "./p-reflect",
