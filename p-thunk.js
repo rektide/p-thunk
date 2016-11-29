@@ -48,6 +48,8 @@ getter({
 	"pipe": "./p-pipe",
 	"p-queue": "./p-queue",
 	"queue": "./p-queue",
+	"p-race": "./p-race",
+	"race": "./p-race",
 	"p-retry": "./p-retry",
 	"retry": "./p-retry",
 	"p-reflect": "./p-reflect",
