@@ -50,6 +50,8 @@ getter({
 	"settle": "./p-settle",
 	"p-some": "./p-some",
 	"some": "./p-some",
+	"p-tap": "./p-tap",
+	"tap": "./p-tap",
 	"p-timeout": "./p-timeout",
 	"timeout": "./p-timeout",
 	"p-times": "./p-times",
