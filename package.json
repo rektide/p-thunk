@@ -22,6 +22,7 @@
 		"p-any": "^1.0.0",
 		"p-cancelable": "^0.1.0",
 		"p-each-series": "^1.0.0",
+		"p-filter": "^1.0.0",
 		"p-immediate": "^2.1.0",
 		"p-is-promise": "^1.1.0",
 		"p-lazy": "^1.0.0",
