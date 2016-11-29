@@ -20,6 +20,8 @@ getter({
 	"locate": "./p-locate",
 	"p-map": "./p-map",
 	"map": "./p-map",
+	"p-min-delay": "./p-min-delay",
+	"minDelay": "./p-min-delay",
 	"p-pipe": "./p-pipe",
 	"pipe": "./p-pipe",
 	"p-retry": "./p-retry",
