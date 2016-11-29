@@ -11,5 +11,7 @@ getter({
 	"p-locate": "./p-locate",
 	"locate": "./p-locate",
 	"p-settle": "./p-settle",
-	"settle": "./p-settle"
+	"settle": "./p-settle",
+	"p-reflect": "./p-reflect",
+	"reflect": "./p-reflect"
 }, module)
