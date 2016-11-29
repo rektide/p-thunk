@@ -2,6 +2,8 @@ var
   getter= require("getter-maker/require")()
 
 getter({
+	"p-all": "./p-all",
+	"all": "./p-all",
 	"p-any": "./p-any",
 	"any": "./p-any",
 	"p-cancelable": "./p-cancelable",
