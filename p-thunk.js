@@ -12,6 +12,8 @@ getter({
 	"cancelable": "./p-cancelable",
 	"p-each-series": "./p-each-series",
 	"eachSeries": "./p-each-series",
+	"p-immediate": "./p-immediate",
+	"immediate": "./p-immediate",
 	"p-is-promise": "./p-is-promise",
 	"isPromise": "./p-is-promise",
 	"p-lazy": "./p-lazy",
