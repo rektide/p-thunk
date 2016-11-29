@@ -38,6 +38,8 @@ getter({
 	"series": "./p-series",
 	"p-settle": "./p-settle",
 	"settle": "./p-settle",
+	"p-some": "./p-some",
+	"some": "./p-some",
 	"p-timeout": "./p-timeout",
 	"timeout": "./p-timeout",
 	"p-waterfall": "./p-waterfall",
