@@ -14,6 +14,8 @@ getter({
 	"locate": "./p-locate",
 	"p-map": "./p-map",
 	"map": "./p-map",
+	"p-retry": "./p-retry",
+	"retry": "./p-retry",
 	"p-settle": "./p-settle",
 	"settle": "./p-settle",
 	"p-reflect": "./p-reflect",
