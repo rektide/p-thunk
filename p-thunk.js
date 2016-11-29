@@ -26,6 +26,8 @@ getter({
 	"retry": "./p-retry",
 	"p-reflect": "./p-reflect",
 	"reflect": "./p-reflect",
+	"p-series": "./p-series",
+	"series": "./p-series",
 	"p-settle": "./p-settle",
 	"settle": "./p-settle",
 	"p-timeout": "./p-timeout",
