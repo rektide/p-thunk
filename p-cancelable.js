@@ -1,2 +1,2 @@
-var sindre= reuire( "p-cancelable")
+var sindre= require( "p-cancelable")
 module.exports= sindre

@@ -1,35 +1,38 @@
 {
-	"name": "p-thunk",
-	"version": "1.0.0",
-	"description": "The excellent \"p-\" libraris of @sindresorhus in thunk form",
-	"main": "p-thunk.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://archive.eldergods.com/p-thunk"
-	},
-	"keywords": [
-		"promise",
-		"thunk"
-	],
-	"author": "rektide de la faye",
-	"license": "MIT",
-	"dependencies": {
-		"getter-maker": "^1.0.5",
-		"p-all": "^1.0.0",
-		"p-any": "^1.0.0",
-		"p-cancelable": "^0.1.0",
-		"p-each-series": "^1.0.0",
-		"p-is-promise": "^1.1.0",
-		"p-lazy": "^1.0.0",
-		"p-locate": "^2.0.0",
-		"p-map": "^1.1.0",
-		"p-pipe": "^1.0.0",
-		"p-reflect": "^1.0.0",
-		"p-retry": "^1.0.0",
-		"p-settle": "^2.0.0",
-		"p-timeout": "^1.0.0"
-	}
+  "name": "p-thunk",
+  "version": "1.0.0",
+  "description": "The excellent \"p-\" libraris of @sindresorhus in thunk form",
+  "main": "p-thunk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://archive.eldergods.com/p-thunk"
+  },
+  "keywords": [
+    "promise",
+    "thunk"
+  ],
+  "author": "rektide de la faye",
+  "license": "MIT",
+  "dependencies": {
+    "getter-maker": "^1.0.5",
+    "p-all": "^1.0.0",
+    "p-any": "^1.0.0",
+    "p-cancelable": "^0.1.0",
+    "p-each-series": "^1.0.0",
+    "p-is-promise": "^1.1.0",
+    "p-lazy": "^1.0.0",
+    "p-locate": "^2.0.0",
+    "p-map": "^1.1.0",
+    "p-pipe": "^1.0.0",
+    "p-reflect": "^1.0.0",
+    "p-retry": "^1.0.0",
+    "p-settle": "^2.0.0",
+    "p-timeout": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
 }
