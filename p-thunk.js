@@ -44,6 +44,8 @@ getter({
 	"some": "./p-some",
 	"p-timeout": "./p-timeout",
 	"timeout": "./p-timeout",
+	"p-times": "./p-times",
+	"times": "./p-times",
 	"p-waterfall": "./p-waterfall",
 	"waterfall": "./p-waterfall",
 	"p-whilst": "./p-whilst",

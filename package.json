@@ -38,6 +38,7 @@
 		"p-settle": "^2.0.0",
 		"p-some": "^1.0.0",
 		"p-timeout": "^1.0.0",
+		"p-times": "^1.0.1",
 		"p-waterfall": "^1.0.0",
 		"p-whilst": "^1.0.0"
 	},
