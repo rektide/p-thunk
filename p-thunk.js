@@ -45,5 +45,7 @@ getter({
 	"p-timeout": "./p-timeout",
 	"timeout": "./p-timeout",
 	"p-waterfall": "./p-waterfall",
-	"waterfall": "./p-waterfall"
+	"waterfall": "./p-waterfall",
+	"p-whilst": "./p-whilst",
+	"whilst": "./p-whilst"
 }, module)
