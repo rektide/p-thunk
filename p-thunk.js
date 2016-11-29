@@ -14,6 +14,8 @@ getter({
 	"cancelable": "./p-cancelable",
 	"p-catch-if": "./p-catch-if",
 	"catchIf": "./p-catch-if",
+	"p-debounce": "./p-debounce",
+	"debounce": "./p-debounce",
 	"p-defer": "./p-defer",
 	"defer": "./p-defer",
 	"p-each-series": "./p-each-series",
