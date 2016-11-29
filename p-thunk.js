@@ -54,6 +54,8 @@ getter({
 	"some": "./p-some",
 	"p-tap": "./p-tap",
 	"tap": "./p-tap",
+	"p-time": "./p-time",
+	"time": "./p-time",
 	"p-timeout": "./p-timeout",
 	"timeout": "./p-timeout",
 	"p-times": "./p-times",
