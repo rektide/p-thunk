@@ -54,6 +54,8 @@ getter({
 	"queue": "./p-queue",
 	"p-race": "./p-race",
 	"race": "./p-race",
+	"p-reduce": "./p-reduce",
+	"reduce": "./p-reduce",
 	"p-retry": "./p-retry",
 	"retry": "./p-retry",
 	"p-reflect": "./p-reflect",
