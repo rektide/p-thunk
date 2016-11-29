@@ -42,6 +42,8 @@ getter({
 	"log": "./p-log",
 	"p-map": "./p-map",
 	"map": "./p-map",
+	"p-map-series": "./p-map-series",
+	"mapSeries": "./p-map-series",
 	"p-memoize": "./p-memoize",
 	"memoize": "./p-memoize",
 	"p-min-delay": "./p-min-delay",
