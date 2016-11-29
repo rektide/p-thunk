@@ -70,6 +70,8 @@ getter({
 	"timeout": "./p-timeout",
 	"p-times": "./p-times",
 	"times": "./p-times",
+	"p-try": "./p-try",
+	"try": "./p-try",
 	"p-wait-for": "./p-wait-for",
 	"waitFor": "./p-wait-for",
 	"p-waterfall": "./p-waterfall",
