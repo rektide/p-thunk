@@ -12,6 +12,8 @@ getter({
 	"lazy": "./p-lazy",
 	"p-locate": "./p-locate",
 	"locate": "./p-locate",
+	"p-map": "./p-map",
+	"map": "./p-map",
 	"p-settle": "./p-settle",
 	"settle": "./p-settle",
 	"p-reflect": "./p-reflect",
