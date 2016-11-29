@@ -20,6 +20,8 @@ getter({
 	"filter": "./p-filter",
 	"p-forever": "./p-forever",
 	"forever": "./p-forever",
+	"p-if": "./p-if",
+	"if": "./p-if",
 	"p-immediate": "./p-immediate",
 	"immediate": "./p-immediate",
 	"p-is-promise": "./p-is-promise",
