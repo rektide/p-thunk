@@ -21,6 +21,7 @@
 		"p-cancelable": "^0.1.0",
 		"p-is-promise": "^1.1.0",
 		"p-lazy": "^1.0.0",
-		"p-locate": "^2.0.0"
+		"p-locate": "^2.0.0",
+		"p-settle": "^2.0.0"
 	}
 }

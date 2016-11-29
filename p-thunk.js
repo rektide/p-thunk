@@ -7,5 +7,9 @@ getter({
 	"p-is-promise": "./p-is-promise",
 	"isPromise": "./is-promise",
 	"p-lazy": "./p-lazy",
-	"lazy": "./p-lazy"
+	"lazy": "./p-lazy",
+	"p-locate": "./p-locate",
+	"locate": "./p-locate",
+	"p-settle": "./p-settle",
+	"settle": "./p-settle"
 }, module)
