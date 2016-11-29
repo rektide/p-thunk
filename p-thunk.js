@@ -58,6 +58,8 @@ getter({
 	"some": "./p-some",
 	"p-tap": "./p-tap",
 	"tap": "./p-tap",
+	"p-throttle": "./p-throttle",
+	"throttle": "./p-throttle",
 	"p-time": "./p-time",
 	"time": "./p-time",
 	"p-timeout": "./p-timeout",
