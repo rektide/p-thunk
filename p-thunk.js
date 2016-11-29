@@ -50,6 +50,8 @@ getter({
 	"minDelay": "./p-min-delay",
 	"p-pipe": "./p-pipe",
 	"pipe": "./p-pipe",
+	"p-props": "./p-props",
+	"props": "./p-props",
 	"p-queue": "./p-queue",
 	"queue": "./p-queue",
 	"p-race": "./p-race",
