@@ -14,6 +14,8 @@ getter({
 	"eachSeries": "./p-each-series",
 	"p-filter": "./p-filter",
 	"filter": "./p-filter",
+	"p-forever": "./p-forever",
+	"forever": "./p-forever",
 	"p-immediate": "./p-immediate",
 	"immediate": "./p-immediate",
 	"p-is-promise": "./p-is-promise",
