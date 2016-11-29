@@ -8,6 +8,8 @@ getter({
 	"all": "./p-all",
 	"p-any": "./p-any",
 	"any": "./p-any",
+	"p-break": "./p-break",
+	"break": "./p-break",
 	"p-cancelable": "./p-cancelable",
 	"cancelable": "./p-cancelable",
 	"p-each-series": "./p-each-series",

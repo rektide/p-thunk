@@ -20,6 +20,7 @@
 		"getter-maker": "^1.0.5",
 		"p-all": "^1.0.0",
 		"p-any": "^1.0.0",
+		"p-break": "^0.1.0",
 		"p-cancelable": "^0.1.0",
 		"p-each-series": "^1.0.0",
 		"p-filter": "^1.0.0",
