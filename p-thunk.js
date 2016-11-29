@@ -38,6 +38,8 @@ getter({
 	"log": "./p-log",
 	"p-map": "./p-map",
 	"map": "./p-map",
+	"p-memoize": "./p-memoize",
+	"memoize": "./p-memoize",
 	"p-min-delay": "./p-min-delay",
 	"minDelay": "./p-min-delay",
 	"p-pipe": "./p-pipe",
